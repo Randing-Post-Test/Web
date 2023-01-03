@@ -18,8 +18,11 @@ Dengan selesai mengerjakan post test 2 diharapkan peserta mampu membuat website 
 Contoh https://rmranding.netlify.app/
 
 *Contoh dari website di atas hanyalah gambaran, tidak harus sama
+
 *Jangan asal copas dari internet, sesuaikan dengan tema websitemu
+
 *Kerjakan sendiri biar kamu paham, pemahamanmu terhadap CSS akan memberi gambaran cara kerja dan fungsi dari setiap properti di CSS
+
 *Post test 2 = UTS pak Putut
 
 ## Deadline
